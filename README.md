@@ -8,8 +8,8 @@ https://www.linkedin.com/posts/divya-munot_step-step-step-activity-6665957980124
 I am uploading my code for the challenges I faced in foobar.
 
 Level 1:
-  Solar Doomsday
+Solar Doomsday
   
 Level 2:
-  Gearing up for Destruction
-  Hey, I Already Did That!
+Gearing up for Destruction
+Hey, I Already Did That!
